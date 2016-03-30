@@ -1,0 +1,23 @@
+{
+  "name": "gmmendezp",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Martin Mendez",
+  "main": "./index.json",
+  "scripts": {
+    "postinstall": "cat index.json"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmmendezp/martin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gmmendezp/martin/issues"
+  },
+  "homepage": "https://github.com/gmmendezp/martin#readme",
+  "license": "MIT"
+}
